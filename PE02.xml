@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="PE02.xslt"?>
+<items>
+       <item id="1">
+	      <name>Hamburger</name>
+		  <price>$3.50</price>
+		  <photo>photos/Hamburger.jpg</photo>
+	   </item>
+	   <item id="2">
+	      <name>Hot Dog</name>
+		  <price>$2.00</price>
+		  <photo>photos/Hot_Dog.JFIF</photo>
+	   </item>
+	   <item id="3">
+	      <name>Cola Drink</name>
+		  <price>$1.50</price>
+		  <photo>photos/Cola_Drink.JFIF</photo>
+	   </item>
+</items>
